@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Vijay-sys17
+- I’m interested in ...verilog,Embedded systems,electronics
+- I’m currently learning ...digital electronics
+- I’m looking to collaborate on ...open sorce projects
+- How to reach me ...**Email:** [vijaykumar17032005@gmail.com]
+-                    **LinkedIn:** [ https://www.linkedin.com/in/vijay-kumar-a87ba8284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
